@@ -1,0 +1,1 @@
+<?php	$db=new mysqli("localhost","root","","salveaza_planeta");		if(!$db)			{				echo "failed";  			}?>

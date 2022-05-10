@@ -1,0 +1,1 @@
+Singurele elemente ce nu aparțin de proiect, sunt pozele care au fost preluate de pe Google, bazate pe tema respectivă.
